@@ -1,4 +1,4 @@
-# Weather app (Project created for the school)
+# Weather app (Project created for lessons)
 
 # Getting Started with Create React App
 
